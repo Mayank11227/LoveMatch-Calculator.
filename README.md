@@ -32,4 +32,4 @@ It is designed with a clean and responsive interface for a smooth user experienc
 3. A compatibility percentage is generated.
 4. The result is displayed instantly on the screen.
 
-(Note: The calculation logic is for entertainment purposes only.)
+
