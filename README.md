@@ -15,7 +15,7 @@ It is designed with a clean and responsive interface for a smooth user experienc
 - HTML5
 - CSS
 - JavaScript
-(If React or other tech used, add them here)
+
 
 ## ⚙️ Features
 
