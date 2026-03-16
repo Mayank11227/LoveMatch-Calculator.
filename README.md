@@ -12,7 +12,7 @@ It is designed with a clean and responsive interface for a smooth user experienc
 
 ## 🛠️ Built With
 
-- HTML
+- HTML5
 - CSS
 - JavaScript
 (If React or other tech used, add them here)
