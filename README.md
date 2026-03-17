@@ -30,6 +30,6 @@ It is designed with a clean and responsive interface for a smooth user experienc
 1. User enters two names.
 2. The application processes the names.
 3. A compatibility percentage is generated.
-4. The result is displayed instantly on the screen.
+4. The result  displayed instantly on the screen.
 
 
