@@ -13,7 +13,7 @@ It is designed with a clean and responsive interface for a smooth user experienc
 ## 🛠️ Built With
 
 - HTML5
-- CSS
+- cascading style sheet CSS
 - JavaScript
 
 
