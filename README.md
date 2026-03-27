@@ -19,7 +19,7 @@ It is designed with  clean and responsive interface for a smooth user experience
 
 ## ⚙️ Features
 
-- User-friendly interface
+- User-friendly interface.
 - Instant love compatibility calculation
 - Dynamic result display
 - Responsive design
