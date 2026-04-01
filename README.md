@@ -2,7 +2,7 @@
 
 A simple and interactive Love Calculator web application that calculates the compatibility score between two people based on their names.
 
-## 🚀 Live deployment link = https://love-match-calculater.netlify.app/
+## 🚀 Live deployment link = https://love-match-calculater.netlify.app/.
 
 ## 📌 About The Project
 
