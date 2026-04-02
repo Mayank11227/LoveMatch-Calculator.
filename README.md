@@ -14,7 +14,7 @@ It is designed with  clean and responsive interface for a smooth user experience
 
 - HTML5.
 - cascading style sheet CSS.
-- JavaScript. 
+- Java
 
 
 ## ⚙️ Features
