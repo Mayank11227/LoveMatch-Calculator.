@@ -8,7 +8,7 @@ A simple and interactive Love Calculator web application that calculates the com
 
 LoveMatch Calculator is a fun web-based application that takes two names as input and generates a love compatibility percentage. This project is built to practice JavaScript logic, DOM manipulation, and UI design.
 
-It is designed with  clean and responsive interface for a smooth user experience. mayank 
+It is designed with  clean and responsive interface for a smooth user experience. 
 
 ## 🛠️ Built With
 
